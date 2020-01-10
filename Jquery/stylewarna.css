@@ -1,0 +1,58 @@
+.halo1 {
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    border: 1px solid black;
+}
+
+.halo2 {
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    border: 1px solid black;
+}
+
+.halo3 {
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    border: 1px solid black;
+}
+
+center{
+    opacity: 100%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 37%;
+    margin-left: 15%;
+    
+}
+
+.numbuh {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.toggle{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.data {
+    background: #abcdef;
+    position: relative;
+    height: 700px;
+    width: 800px;
+    border: 1px solid #333;
+}
+
+p {
+    color: white;
+}
